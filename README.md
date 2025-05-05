@@ -30,14 +30,6 @@ This mindmap is rendered using **Markmap**, a JavaScript-based tool for turning 
 - HTML5 + CSS
 - [Markmap.js](https://markmap.js.org/)
 - GitHub Pages for hosting
-
----
-
-## 📸 Screenshot
-
-![Mindmap Preview](https://your-screenshot-url.com)  
-<!-- Optional: Replace with actual screenshot URL from your repo's `/assets` folder -->
-
 ---
 
 ## 🙋‍♂️ Author
